@@ -1,0 +1,12 @@
+{
+    "name": "hxLibNotifications",
+    "url" : "https://github.com/Slushi-Github/hxLibNotifications",
+    "license": "Apache",
+    "tags": ["native"],
+    "description": "Haxe @:native bindings for libnotifications for the Wii U.",
+    "version": "1.0.0",	
+    "releasenote": "",
+    "contributors": ["Slushi"],
+    "dependencies": {
+    }
+}

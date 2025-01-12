@@ -1,0 +1,13 @@
+package notifications;
+
+import cxx.*;
+import cxx.num.*;
+
+import notifications.Notification_defines.NotificationModuleAPIVersion;
+import notifications.Notification_defines.NotificationModuleHandle;
+import notifications.Notification_defines.NotificationModuleNotificationFinishedCallback;
+import notifications.Notification_defines.NotificationModuleNotificationOption;
+import notifications.Notification_defines.NotificationModuleNotificationType;
+import notifications.Notification_defines.NotificationModuleStatus;
+import notifications.Notification_defines.NotificationModuleStatusFinish;
+import notifications.Notification_defines.NMColor;
