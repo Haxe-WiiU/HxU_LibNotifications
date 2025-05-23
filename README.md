@@ -1,4 +1,4 @@
-# hxLibNotifications
+# Haxe-WiiU - LibNotifications
 With this library, you can make use of [libnotifications](https://github.com/wiiu-env/libnotifications) library functions natively in Haxe, to develop homebrew for the Nintendo Wii U. This is a library in conjunction with [HxCompileU](https://github.com/Slushi-Github/hxCompileU), which is the utility for compiling to the Wii U using [Reflaxe.CPP](https://github.com/SomeRanDev/reflaxe.CPP).
 
 
